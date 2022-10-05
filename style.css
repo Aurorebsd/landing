@@ -16,7 +16,7 @@ body {
   }
  
   .banner {
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('images/background.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('images/image 1.jpeg');
     background-size: cover;
     background-position: center;
     padding: 150px 0;
@@ -39,18 +39,18 @@ body {
   }
  
   .btn {
-    background-color: #075379;
-    color: rgb(147, 230, 216);
-    padding: 16px 48px;
+    background-color: black;
+    color: lightpink;
+    padding: 10px 45px;
     border-radius: 4px;
     display: inline-block;
     text-decoration: none;
-    transition: .3s;
+    transition: .2s;
   }
  
   .btn:hover {
     background-color: lightpink;
-    color: white;
+    color: black;
   }
  
   
@@ -79,7 +79,7 @@ body {
   }
  
   .footer p {
-    color: white;
+    color: lightpink;
   }
  
   .cards {
